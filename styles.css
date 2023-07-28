@@ -4,6 +4,8 @@ body {
 
 .header {
     background-color: #1f2937;
+    font-family: "roboto", sans-serif;
+    padding-bottom: 100px;
 }
 
 .logo {
@@ -14,6 +16,22 @@ body {
 .links {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.header1, .header2 {
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.header1 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 16px;
+}
+
+.header_links {
+    display: flex;
+    gap: 32px;
 }
 
 .header2-text {
