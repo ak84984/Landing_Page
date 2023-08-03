@@ -111,6 +111,9 @@ button {
 .third {
     background-color: #E5E7EB;
     font-family: "roboto", sans-serif;
+    padding: 150px;
+    padding-left: 300px;
+    padding-right: 300px;
 }
 
 .quote {
@@ -121,5 +124,6 @@ button {
 
 .author {
     font-weight: bold;
+    text-align: right;
 }
 
