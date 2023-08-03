@@ -87,8 +87,8 @@ button {
 }
 
 .box {
-    width: 125px;
-    height: 125px;
+    width: 140px;
+    height: 140px;
     border: 3px solid rgb(0, 98, 255);
     border-radius: 6px;
 }
@@ -101,14 +101,25 @@ button {
     margin: 50px;
 }
 
-
 .subtext {
-    max-width: 130px;
+    max-width: 150px;
     text-align: center;
+    font-family: "roboto", sans-serif;
 }
 
-
-
-
 /* Third section */
+.third {
+    background-color: #E5E7EB;
+    font-family: "roboto", sans-serif;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.author {
+    font-weight: bold;
+}
 
