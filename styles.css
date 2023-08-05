@@ -1,6 +1,9 @@
 body {
     margin: 0;
+    max-width: 1500px;
+    min-width: 1500px;
 }
+
 /* Header/top section css*/
 .header {
     background-color: #1f2937;
@@ -125,5 +128,17 @@ body {
 .author {
     font-weight: bold;
     text-align: right;
+}
+
+/* Fourth section */
+.fourth {
+    background-color: #3882F6;
+    margin: 75px;
+    margin-right: 300px;
+    margin-left: 300px;
+    padding: 50px;
+    display: flex;
+    border-radius: 5px;
+    justify-content: space-around;
 }
 
